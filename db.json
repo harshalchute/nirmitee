@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "frient",
+      "body": "blabablab a",
+      "id": 8
+    },
+    {
+      "title": "LoL",
+      "body": "Lol",
+      "id": 10
+    },
+    {
+      "title": "asdfad",
+      "body": "jf",
+      "id": 12
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
